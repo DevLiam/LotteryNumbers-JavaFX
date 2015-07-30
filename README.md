@@ -1,3 +1,0 @@
-# personalProjects
-
-Simple Javafx programs
